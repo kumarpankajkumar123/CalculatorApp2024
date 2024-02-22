@@ -41,7 +41,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/kumarpankajkumar123/calculator-app.git
+git clone https://github.com/kumarpankajkumar123/CalculatorApp2024.git
 Open the project in Android Studio.
 
 Run the app on an emulator or physical device.
