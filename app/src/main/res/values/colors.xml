@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="AllClearColor">#E17DF3</color>
+    <color name="OperatorColor">#8BCFEF</color>
+    <color name="EqualColor">#1EABEA</color>
+    <color name="DigitColor">#D2E7F1</color>
+
+    <color name="backGround">#D2F8F8</color>
+    <color name="AnswerColor">#50BBEA</color>
+    <color name="background_dark">#FFFFFF</color>
+    <color name="background_light">#FFFF8D</color>
+
+
+</resources>
