@@ -12,7 +12,8 @@ Welcome to the Android Calculator App repository! This simple calculator app is 
 ## Code Snippets
 
 ### Handling Operators and Digits
-
+# Dependency
+ implementation("net.objecthunter:exp4j:0.4.8")
 ```java
 // Method to handle digit input
 public void onDigitMethod(View view) {
@@ -36,15 +37,27 @@ public void onEqual(View view) {
     // Your implementation here
 }
 ```
-Usage
-Clone the repository:
+# Video Demo
 
-bash
-Copy code
-git clone https://github.com/kumarpankajkumar123/CalculatorApp2024.git
-Open the project in Android Studio.
+palay : https://github.com/kumarpankajkumar123/CalculatorApp2024/assets/119131154/a70a2d7b-2144-4b87-9464-4586330f367b
 
-Run the app on an emulator or physical device.
+# Multiple Color uses For better ui
+
+```Color Code
+<color name="textColor">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="AllClearColor">#E17DF3</color>
+    <color name="OperatorColor">#8BCFEF</color>
+    <color name="EqualColor">#1EABEA</color>
+    <color name="DigitColor">#D2E7F1</color>
+
+    <color name="backGround">#D2F8F8</color>
+    <color name="AnswerColor">#50BBEA</color>
+    <color name="background_dark">#FFFFFF</color>
+    <color name="background_light">#FFFF8D</color>
+```
+Copy code:git clone https://github.com/kumarpankajkumar123/CalculatorApp2024.git
 
 Contributing
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
